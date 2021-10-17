@@ -1,0 +1,60 @@
+ {
+ "products": [
+    {
+      "id": 1,
+      "name": "Bin Muhteşem Güneş",
+      "author": "Khaled Hosseini",
+      "price": 19.99,
+      "image": "https://i.dr.com.tr/cache/600x600-0/originals/0000000266552-1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "İçimizdeki Şeytan",
+      "author": "Sabahattin Ali",
+      "price": 12.99,
+      "image": "https://img.kitapyurdu.com/v1/getImage/fn:1105911/wh:true/miw:200/mih:200"
+    },
+    {
+      "id": 3,
+      "name": "Dönüşüm",
+      "author": "Franz Kafka",
+      "price": 9.99,
+      "image": "https://i.dr.com.tr/cache/600x600-0/originals/0000000064022-1.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Sefiller",
+      "author": "Victor Hugo",
+      "price": 14.99,
+      "image": "http://kbimages1-a.akamaihd.net/Images/6faa402f-1a95-4897-93ff-8286cbe0e94f/400/600/False/image.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Bilinmeyen Bir Kadının Mektubu",
+      "author": "Stefan Zweig",
+      "price": 4.99,
+      "image": "https://i.dr.com.tr/cache/600x600-0/originals/0000000411059-1.jpg"
+    },
+   {
+      "id": 6,
+      "name": "Yeraltından Notlar",
+      "author": "Fyodor Dostoyevski",
+      "price": 5.99,
+      "image": "https://i.dr.com.tr/cache/500x400-0/originals/0001798371001-1.jpg"
+    },
+   {
+      "id": 7,
+      "name": "Kuyucaklı Yusuf",
+      "author": "Sabahattin Ali",
+      "price": 4.99,
+      "image": "https://i.dr.com.tr/cache/600x600-0/originals/0000000052460-1.jpg"
+    },
+   {
+      "id": 8,
+      "name": "Ay Işığı Sokağı",
+      "author": "Stefan Zweig",
+      "price": 3.99,
+      "image": "https://i.dr.com.tr/cache/600x600-0/originals/0001705401001-1.jpg"
+    }
+]
+}
